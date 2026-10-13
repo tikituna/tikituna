@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Liber Tikituna. A seal bearing a unicursal hexagram, ringed by the words Sam Sugarman, Los Angeles, tikituna, MMXXVI.">
+<defs>
+  <style>
+    .serif { font-family: 'Cormorant Garamond', 'EB Garamond', Garamond, 'Hoefler Text', Georgia, 'Times New Roman', serif; }
+    .ring  { animation: spin 240s linear infinite; transform-origin: 172px 150px; }
+    .ringr { animation: spinr 150s linear infinite; transform-origin: 172px 150px; }
+    .eye   { animation: pulse 7s ease-in-out infinite; }
+    .candle { animation: candle 9s ease-in-out infinite; }
+    @keyframes spin  { to { transform: rotate(360deg); } }
+    @keyframes spinr { to { transform: rotate(-360deg); } }
+    @keyframes pulse { 0%,100% { opacity: .55; r: 5.5px; } 50% { opacity: 1; r: 7px; } }
+    @keyframes candle { 0%,100% { opacity: 1; } 31% { opacity: .93; } 47% { opacity: .98; } 63% { opacity: .9; } 71% { opacity: .97; } }
+  </style>
+  <path id="outerText" d="M69.00,150.00 a103,103 0 1,1 206.00,0 a103,103 0 1,1 -206.00,0"/>
+  <path id="innerText" d="M93.00,150.00 a79,79 0 1,1 158.00,0 a79,79 0 1,1 -158.00,0"/>
+</defs>
+<rect width="900" height="300" fill="#0b0a0c"/>
+<g class="candle">
+<rect x="12.5" y="12.5" width="875" height="275" fill="none" stroke="#b89b5e" stroke-opacity=".55" stroke-width="1"/>
+<rect x="18.5" y="18.5" width="863" height="263" fill="none" stroke="#b89b5e" stroke-opacity=".35" stroke-width=".6"/>
+<circle cx="12.5" cy="12.5" r="2.2" fill="#0b0a0c" stroke="#b89b5e" stroke-opacity=".8" stroke-width=".8"/>
+<circle cx="887.5" cy="12.5" r="2.2" fill="#0b0a0c" stroke="#b89b5e" stroke-opacity=".8" stroke-width=".8"/>
+<circle cx="12.5" cy="287.5" r="2.2" fill="#0b0a0c" stroke="#b89b5e" stroke-opacity=".8" stroke-width=".8"/>
+<circle cx="887.5" cy="287.5" r="2.2" fill="#0b0a0c" stroke="#b89b5e" stroke-opacity=".8" stroke-width=".8"/>
+<circle cx="172" cy="150" r="120" fill="none" stroke="#b89b5e" stroke-opacity=".8" stroke-width=".9"/>
+<circle cx="172" cy="150" r="112" fill="none" stroke="#b89b5e" stroke-opacity=".5" stroke-width=".6"/>
+<path d="M172.00,38.00L172.00,30.00M179.76,35.26L179.90,33.27M187.49,36.05L187.76,34.07M194.85,38.82L195.85,33.93M202.70,39.17L203.24,37.25M210.11,41.50L210.78,39.61M216.76,45.70L218.73,41.10M224.38,47.62L225.29,45.84M231.17,51.39L232.20,49.68M236.84,56.84L239.70,52.74M243.92,60.26L245.17,58.70M249.81,65.32L251.17,63.85M254.26,71.80L257.89,68.36M260.51,76.58L262.05,75.30M265.26,82.72L266.89,81.55M268.32,89.96L272.56,87.32M273.48,95.90L275.24,94.96M276.90,102.87L278.72,102.05M278.43,110.58L283.12,108.84M282.29,117.43L284.21,116.86M284.24,124.95L286.19,124.52M284.19,132.81L289.13,132.06M286.59,140.30L288.58,140.13M286.98,148.06L288.98,148.02M285.35,155.75L290.35,156.00M286.20,163.57L288.18,163.80M285.02,171.24L286.99,171.61M281.88,178.45L286.72,179.70M281.13,186.28L283.03,186.91M278.43,193.56L280.28,194.32M273.90,199.98L278.39,202.19M268.99,206.00L275.92,210.00M267.48,214.09L269.14,215.21M261.75,219.47L265.71,222.53M257.98,226.37L259.47,227.70M252.63,232.00L254.03,233.43M245.93,236.12L249.19,239.91M240.85,242.12L242.04,243.72M234.47,246.55L235.56,248.23M227.08,249.24L229.51,253.61M220.89,254.09L221.74,255.90M213.76,257.15L214.48,259.02M205.98,258.29L207.47,263.07M198.94,261.80L199.41,263.74M191.33,263.36L191.67,265.34M183.48,262.92L183.99,267.89M175.88,264.93L175.95,266.93M168.12,264.93L168.05,266.93M160.52,262.92L160.01,267.89M152.67,263.36L152.33,265.34M145.06,261.80L144.59,263.74M138.02,258.29L136.53,263.07M130.24,257.15L129.52,259.02M123.11,254.09L122.26,255.90M116.92,249.24L114.49,253.61M109.53,246.55L108.44,248.23M103.15,242.12L101.96,243.72M98.07,236.12L94.81,239.91M91.37,232.00L89.97,233.43M86.02,226.37L84.53,227.70M82.25,219.47L78.29,222.53M76.52,214.09L74.86,215.21M75.01,206.00L68.08,210.00M70.10,199.98L65.61,202.19M65.57,193.56L63.72,194.32M62.87,186.28L60.97,186.91M62.12,178.45L57.28,179.70M58.98,171.24L57.01,171.61M57.80,163.57L55.82,163.80M58.65,155.75L53.65,156.00M57.02,148.06L55.02,148.02M57.41,140.30L55.42,140.13M59.81,132.81L54.87,132.06M59.76,124.95L57.81,124.52M61.71,117.43L59.79,116.86M65.57,110.58L60.88,108.84M67.10,102.87L65.28,102.05M70.52,95.90L68.76,94.96M75.68,89.96L71.44,87.32M78.74,82.72L77.11,81.55M83.49,76.58L81.95,75.30M89.74,71.80L86.11,68.36M94.19,65.32L92.83,63.85M100.08,60.26L98.83,58.70M107.16,56.84L104.30,52.74M112.83,51.39L111.80,49.68M119.62,47.62L118.71,45.84M127.24,45.70L125.27,41.10M133.89,41.50L133.22,39.61M141.30,39.17L140.76,37.25M149.15,38.82L148.15,33.93M156.51,36.05L156.24,34.07M164.24,35.26L164.10,33.27" stroke="#b89b5e" stroke-opacity=".85" stroke-width=".7" fill="none"/>
+<g class="ring">
+<text class="serif" font-size="11" letter-spacing="3.2" fill="#e7dcc3" fill-opacity=".92"><textPath href="#outerText" startOffset="0" textLength="638" lengthAdjust="spacing">SAM SUGARMAN &#x2726; LOS ANGELES &#x2726; TIKITUNA &#x2726; MMXXVI &#x2726; </textPath></text>
+</g>
+<circle cx="172" cy="150" r="91" fill="none" stroke="#b89b5e" stroke-opacity=".7" stroke-width=".7"/>
+<circle cx="172" cy="150" r="67" fill="none" stroke="#b89b5e" stroke-opacity=".7" stroke-width=".7"/>
+<circle cx="172" cy="150" r="64" fill="none" stroke="#b89b5e" stroke-opacity=".35" stroke-width=".5"/>
+<g class="ringr">
+<text class="serif" font-size="8.2" font-style="italic" letter-spacing="1.6" fill="#a89c82"><textPath href="#innerText" textLength="490" lengthAdjust="spacing">ph&#x2019;nglui mglw&#x2019;nafh cthulhu r&#x2019;lyeh wgah&#x2019;nagl fhtagn &#xB7; i&#xE4; &#xB7; i&#xE4; &#xB7; </textPath></text>
+</g>
+<path d="M172.00,94.00 L128.00,177.00 L216.00,123.00 L172.00,206.00 L128.00,123.00 L216.00,177.00 Z" fill="none" stroke="#e7dcc3" stroke-opacity=".95" stroke-width="1.3" stroke-linejoin="miter"/>
+<path d="M172.00,94.00 L128.00,177.00 L216.00,123.00 L172.00,206.00 L128.00,123.00 L216.00,177.00 Z" fill="none" stroke="#b89b5e" stroke-opacity=".5" stroke-width="4" stroke-linejoin="miter" style="filter:blur(3px)"/>
+<circle class="eye" cx="172" cy="150" r="6" fill="#b89b5e"/>
+<circle cx="172" cy="150" r="2" fill="#0b0a0c"/>
+<text class="serif" x="330" y="118" font-size="44" letter-spacing="7" fill="#e7dcc3">LIBER TIKITUNA</text>
+<text class="serif" x="332" y="146" font-size="12.5" letter-spacing="6" fill="#b89b5e">SVB FIGVRA &#x221E;</text>
+<path d="M330,166 H860" stroke="#b89b5e" stroke-opacity=".6" stroke-width=".7"/>
+<path d="M330,169.5 H470" stroke="#b89b5e" stroke-opacity=".35" stroke-width=".5"/>
+<text class="serif" x="330" y="196" font-size="14" font-style="italic" fill="#a89c82">Being the record of one who dwelleth in the City of Angels</text>
+<text class="serif" x="330" y="216" font-size="14" font-style="italic" fill="#a89c82">and buildeth in the hours when the stars are right.</text>
+<text class="serif" x="860" y="262" font-size="9.5" letter-spacing="3" fill="#b89b5e" fill-opacity=".8" text-anchor="end">PRIVATELY PRINTED &#xB7; NOT FOR THE DAYLIGHT</text>
+</g></svg>

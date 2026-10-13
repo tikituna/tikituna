@@ -1,68 +1,67 @@
 <p align="center">
-  <img src="assets/header.svg" alt="IT'S ALIVE. Sam Sugarman, Los Angeles, @tikituna" width="100%" />
+  <img src="assets/plate.svg" width="100%" alt="Liber Tikituna. A seal bearing a unicursal hexagram, ringed by the words Sam Sugarman, Los Angeles, tikituna, MMXXVI. Being the record of one who dwelleth in the City of Angels and buildeth in the hours when the stars are right." />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=20&duration=2600&pause=900&color=7EE787&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sam.;Assembled+from+spare+parts.;I+build+things+after+dark.;The+commits+are+coming+from+inside+the+house.;Please+don't+light+the+torches." alt="Hi, I'm Sam. Assembled from spare parts. I build things after dark." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-alive--ish-2EA043?style=for-the-badge&labelColor=0b0d12" alt="status: alive-ish" />
-  <img src="https://img.shields.io/badge/lab-Los_Angeles-8B0000?style=for-the-badge&labelColor=0b0d12" alt="lab: Los Angeles" />
-  <img src="https://img.shields.io/badge/lightning-required-F7B32B?style=for-the-badge&labelColor=0b0d12" alt="lightning: required" />
-  <img src="https://img.shields.io/badge/sleep-optional-6E40C9?style=for-the-badge&labelColor=0b0d12" alt="sleep: optional" />
-</p>
+<p align="center"><em>Do what thou wilt shall be the whole of the Law.</em><br /><sub>Liber AL vel Legis, I. 40</sub></p>
 
 <br />
 
-## 🧟 Specimen file
+<img src="assets/i.svg" width="100%" alt="I. Of the Author" />
 
-| | |
-|---|---|
-| **Name** | Sam Sugarman |
-| **Habitat** | Los Angeles. The sun is out. I am indoors. |
-| **Handle** | `tikituna`, because I fly fish and the fish deserve a namesake |
-| **Face** | Boris Karloff as the monster. Stitched together from parts, misunderstood, tremendous forehead. Relatable. |
-| **Diet** | Coffee, side projects, movies where the house is the problem |
-| **Weakness** | Fire. Also a good river. |
+There is a man in the City of Angels who does not sleep when the city sleeps. The daylight registers have him as Sam Sugarman. The machine on his desk, which keeps its own registers, knows him by another name.
 
-## 🔬 Experiments in progress
+He is a builder of small and particular things. He has been assembled, like most of us, from parts that were not originally his, and he has made his peace with the seams.
 
-- ⚡ Side projects, mostly nocturnal. Some are stitched together from older side projects. That's allowed.
-- 🏚️ Small sites and tools for family and friends. They work. Mostly. Don't go in the basement.
-- 🎣 Fly fishing. The Creature from the Black Lagoon was just a guy who liked the water.
-- 🍿 Rewatching old monster movies and insisting the 1931 one is still the best one.
+<img src="assets/ii.svg" width="100%" alt="II. Of the Name" />
 
-## 🔦 Rules for surviving the codebase
+*Tikituna.* Say it twice and something surfaces.
 
-1. **Cardio.** Scroll past the first error. The real one is further down.
-2. **Double tap.** Run the tests twice. The second time with your eyes open.
-3. **Never split up.** Pair on the scary parts.
-4. **Commit early, commit often.** The thing in the basement is `git stash`.
-5. **When it says "It's alive," push.**
+The name came up out of the water, as the better names do. The author fly fishes, and keeps faith with certain rivers that have no signal and ask no questions. Those who have read of Innsmouth will understand the risk of taking a name from the sea. He took it anyway. The gills have not come in yet. He checks.
 
-## 🪦 The graveyard
+<img src="assets/iii.svg" width="100%" alt="III. Of the Work" />
 
-> Here lie the side projects.<br>
-> They were loved. Briefly.<br>
-> Some of them will be back. They always come back.
+What is built here is built in the small hours: sites and instruments for family and friends, experiments stitched from the parts of older experiments, things that work and things that are merely not dead.
 
-## 🗣️ Ask me about
+The public shelf is sparse. The private shelf is not. The greater part of the workings is held in a sealed library under conditions the author does not discuss, and the catalogue card below is all that the librarians permit.
 
-Old monster movies · fly fishing · Los Angeles after dark · why the monster was the good guy the whole time
+```
+┌────────────────────────────────────────────────────────────────┐
+│  MISKATONIC UNIVERSITY LIBRARY           RESTRICTED COLLECTION │
+├────────────────────────────────────────────────────────────────┤
+│  CALL NO.    Tik. 93 / Sug.                                    │
+│  AUTHOR      Sugarman, Sam. Los Angeles. fl. MMXXVI.           │
+│  TITLE       Workings, chiefly nocturnal. 9 vols., 7 sealed.   │
+│  SUBJECTS    Side projects — Family archives — Rivers —        │
+│              Monsters, cinematic — The parts of other things   │
+│  NOTE        Do not read aloud. Do not run in production.      │
+│  STATUS      Not dead. Can eternal lie.                        │
+└────────────────────────────────────────────────────────────────┘
+```
 
-## 🐍 Something is eating the commits
+<img src="assets/iv.svg" width="100%" alt="IV. Of the Face" />
+
+The face on this account is borrowed from Boris Karloff, who borrowed it from Mary Shelley, who borrowed it from a dream she had beside a lake in a year without a summer.
+
+A thing assembled from parts, given current, and immediately misunderstood by the village. The author finds this relatable and declines to elaborate.
+
+<img src="assets/v.svg" width="100%" alt="V. Of the Law" />
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tikituna/tikituna/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/tikituna/tikituna/output/github-snake.svg" />
-  </picture>
+Ship what thou wilt shall be the whole of the Law.<br />
+Love is the law, love under version control.<br />
+Every rollback is a confession.<br />
+Every force-push is a sin, and the author has sinned.<br />
+There is no branch but <code>main</code>, and it is not safe either.
 </p>
 
-<p align="center"><sub>It is a hungry snake. Most of my commits live in a private lab where it can't reach them.</sub></p>
+<img src="assets/vi.svg" width="100%" alt="VI. Of the Signs" />
 
-<br />
+The author may be approached on the following subjects, provided the stars are right:
 
-<p align="center"><code>&gt;&lt;(((º&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&lt;(((º&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&gt;&lt;(((º&gt;</code></p>
-<p align="center"><sub>Made after dark in Los Angeles. It's alive.</sub></p>
+<p align="center"><em>the monster films of the nineteen-thirties, and why the monster was right &nbsp;·&nbsp; the geometry of a river at dusk &nbsp;·&nbsp; the City of Angels after midnight &nbsp;·&nbsp; the correct way to assemble a thing from parts &nbsp;·&nbsp; what the lights on the hill are for</em></p>
+
+He may not be approached about the basement.
+
+<img src="assets/colophon.svg" width="100%" alt="Colophon" />
+
+<p align="center"><sub>Set down in the City of Angels in the year MMXXVI, by the light of a single monitor.<br />The stars were approximately right. Nothing was summoned that could not be sent back.</sub></p>
