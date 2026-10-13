@@ -43,8 +43,8 @@
 
 ## 🪦 The graveyard
 
-> Here lie the side projects.
-> They were loved. Briefly.
+> Here lie the side projects.<br>
+> They were loved. Briefly.<br>
 > Some of them will be back. They always come back.
 
 ## 🗣️ Ask me about
