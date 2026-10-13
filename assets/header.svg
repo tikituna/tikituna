@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="230" viewBox="0 0 900 230" role="img" aria-label="IT'S ALIVE">
+  <defs>
+    <style>
+      .title { font: 900 72px Georgia, 'Times New Roman', serif; fill: #e6e6e6; letter-spacing: 8px; }
+      .sub   { font: 700 16px 'Courier New', Courier, monospace; fill: #7ee787; letter-spacing: 4px; }
+      .flicker { animation: flicker 5s infinite; }
+      @keyframes flicker {
+        0%, 17%, 19%, 21%, 23%, 62%, 64%, 100% { opacity: 1; }
+        18%, 22%, 63% { opacity: .2; }
+        20% { opacity: .55; }
+      }
+      .bolt  { fill: #f7b32b; opacity: 0; animation: strike 5s infinite; }
+      .bolt2 { fill: #fff3c4; opacity: 0; animation: strike 5s infinite .06s; }
+      @keyframes strike {
+        0%, 16%, 24%, 61%, 66%, 100% { opacity: 0; }
+        17%, 21%, 62%, 64% { opacity: 1; }
+        19%, 23%, 63% { opacity: .35; }
+      }
+      .flash { fill: #ffffff; opacity: 0; animation: flash 5s infinite; }
+      @keyframes flash {
+        0%, 16%, 24%, 61%, 66%, 100% { opacity: 0; }
+        17%, 62% { opacity: .10; }
+        19% { opacity: .04; }
+      }
+      .scan { fill: #000; opacity: .18; }
+      .eye { fill: #f7b32b; animation: blink 7s infinite; }
+      @keyframes blink { 0%, 92%, 100% { opacity: 1; } 94%, 98% { opacity: 0; } }
+    </style>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect class="scan" width="4" height="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="900" height="230" fill="#0b0d12"/>
+  <rect class="flash" width="900" height="230"/>
+
+  <!-- lightning, right side -->
+  <path class="bolt"  d="M760 0 L705 92 L742 92 L690 215 L790 78 L752 78 L795 0 Z"/>
+  <path class="bolt2" d="M752 0 L712 86 L735 86 L702 170 L768 80 L742 80 L770 0 Z"/>
+
+  <!-- lightning, left side (secondary) -->
+  <path class="bolt"  d="M150 0 L120 60 L142 60 L112 140 L175 52 L150 52 L178 0 Z" style="animation-delay:2.2s"/>
+
+  <!-- the eyes -->
+  <circle class="eye" cx="428" cy="46" r="4"/>
+  <circle class="eye" cx="472" cy="46" r="4"/>
+
+  <text class="title flicker" x="450" y="128" text-anchor="middle">IT'S ALIVE</text>
+  <text class="sub" x="450" y="178" text-anchor="middle">SAM SUGARMAN  ·  LOS ANGELES  ·  @TIKITUNA</text>
+
+  <rect width="900" height="230" fill="url(#scanlines)"/>
+</svg>
